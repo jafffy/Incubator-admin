@@ -1,4 +1,4 @@
-package kr.ac.ajou.incubator_admin;
+package com.example.administrator.incubator;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
