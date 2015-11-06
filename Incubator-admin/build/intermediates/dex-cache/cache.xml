@@ -2,11 +2,67 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\pre-dexed\debug\classes-c4f814a853e69e6829ac6626487e4ff1735b28f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-7ff9c98979035b158a64b28cb885267de4bb4bfc.jar" />
+    </item>
+    <item
         jar="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
         <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-2879852793a24b04f3e0301ced5b19e0112d4b38.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\pre-dexed\debug\classes-d0653e89820952025bafde5a9bf712315c9c13ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\pre-dexed\debug\classes-0122527127936bca51eee1ee566166fca61f1190.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\pre-dexed\debug\classes-d39be82f452d146ab2080c251e8bfbfaa8d9808d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\pre-dexed\debug\classes-c13e2a6de3bfa77f42e693c8d6a1fbfa483369fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\pre-dexed\debug\classes-3ae5fb213e6e45d8efba7cfd491f67fb0c28e750.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator-admin\Incubator-admin\app\build\intermediates\pre-dexed\debug\classes-9ddfb62b3e527220aaa98c6d2a2fa295d6c1424a.jar" />
     </item>
     <item
         jar="C:\AndroidExam\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
@@ -21,27 +77,6 @@
         revision="23.0.2"
         sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
         <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\pre-dexed\debug\classes-0f3c01a9aa8d7e7fa71718fad16331d35fd6adb0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\pre-dexed\debug\classes-c13e2a6de3bfa77f42e693c8d6a1fbfa483369fc.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\pre-dexed\debug\classes-d0653e89820952025bafde5a9bf712315c9c13ff.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Incubator\app\build\intermediates\pre-dexed\debug\classes-d39be82f452d146ab2080c251e8bfbfaa8d9808d.jar" />
     </item>
 
 </items>
