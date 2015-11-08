@@ -180,6 +180,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         setTitle("New Concpet of Incubator!!");
 
+<<<<<<< HEAD
         //DB에서 데이터 받아올 변수들
         String[] babyName = {"성영민", "김건형", "권혁정", "최재원", "김희선", "김태희", "최지우", "문채원", "아이유", "장기하", "이효리", "송혜교", "이병헌", "장동건", "원빈", "서태지"};                    //아이이름
         String[] parentName = {"아부지", "아부지", "아부지", "아부지", "아부지","아부지","아부지","아부지","아부지","아부지","아부지","아부지","아부지","아부지","아부지","아부지"};                 //보호자성함
@@ -205,6 +206,16 @@ public class MainActivity extends Activity {
         // 16개의 아이 이름 1D 배열
         Integer tvID[] = {R.id.tv1,R.id.tv2,R.id.tv3,R.id.tv4,R.id.tv5,R.id.tv6,R.id.tv7,R.id.tv8,R.id.tv9,R.id.tv10,
                 R.id.tv11,R.id.tv12,R.id.tv13,R.id.tv14,R.id.tv15,R.id.tv16};
+=======
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Snackbar.make(view, "Change with your own action", Snackbar.LENGTH_LONG).setAction("Action", null).show();
+            }
+        });
+    }
+>>>>>>> 9a90bb67180cc13387ddc170f069ffbdd1878b77
 
         //아이데이터가 들어있는 객체 16개 생성
         final Person[] baby = new Person[16];
